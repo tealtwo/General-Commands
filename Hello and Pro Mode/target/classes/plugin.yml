@@ -1,0 +1,17 @@
+name: HelloandProMode
+version: '1.1-SNAPSHOT'
+main: revene.helloandpromode.HelloAndProMode
+api-version: 1.18
+commands:
+  pingreload:
+    description: Reloads the plugin.
+  ping:
+    description: The main command for SpigotPing.
+  bye:
+    description: Kicks You
+    usage: /<command>
+  hello:
+    description: Hello
+    usage: /<command>
+    aliases: hi
+
