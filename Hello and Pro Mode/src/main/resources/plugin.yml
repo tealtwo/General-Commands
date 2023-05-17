@@ -1,8 +1,14 @@
-name: HelloandProMode
+name: GeneralCommandsRevene
 version: '${project.version}'
-main: revene.helloandpromode.HelloAndProMode
+main: revene.generalcommands.HelloAndProMode
 api-version: 1.18
 commands:
+  store:
+    description: Store link
+    usage: /<command>
+  discord:
+    description: Discord Link
+    usage: /<command>
   pingreload:
     description: Reloads the plugin.
   ping:

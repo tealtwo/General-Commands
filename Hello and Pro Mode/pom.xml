@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>revene</groupId>
-    <artifactId>HelloandProMode</artifactId>
+    <artifactId>GeneralCommands</artifactId>
     <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Hello and Pro Mode</name>
+    <name>GeneralCommands</name>
 
     <properties>
         <java.version>1.8</java.version>
